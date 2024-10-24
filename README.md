@@ -12,3 +12,6 @@ Self-Run-PE is a Windows-based process injection tool that allocates memory in a
 .\inject.exe notepad.exe
 
 - Made by Evilbytecode aka Ebyte
+
+## PoC:
+![image](https://github.com/user-attachments/assets/18415099-2b78-4a7c-9dd3-ff90cf0ed3f6)
